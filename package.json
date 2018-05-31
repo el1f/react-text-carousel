@@ -2,7 +2,7 @@
   "name": "react-text-carousel",
   "version": "0.1.2",
   "description": "React component for swithcing between texts using a typing animation effect.",
-  "main": "./lib/index.js",
+  "main": "./dist/react-text-carousel.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/mynewsdesk/react-text-carousel"
